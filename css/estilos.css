@@ -50,7 +50,6 @@ body
     background: white;
     padding: 1em;
 }
-<<<<<<< HEAD
 #footer
 {
     background:#777;
@@ -59,13 +58,11 @@ body
     padding: .5em;
 
 }
-=======
 
 #footer
 {
-    background: #777;
+    background: #b921a5;
     color: white;
     text-align: center;
     padding: 0.5em;
 }
->>>>>>> 969cb372a50019d4f46801ceec12643196497e1a
